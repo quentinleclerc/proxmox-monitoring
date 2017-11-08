@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/bin
+
+# Eclipse project files
+.classpath
+.project
+
